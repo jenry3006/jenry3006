@@ -2,7 +2,6 @@
 
 - 💥 &nbsp; Desenvolvendo projetos para crescimento profissional como desenvolvedor back-end 
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://faculdadefacec.edu.br/">Faculdade FACEC</a>.
-- 💼 &nbsp; Trabalhando atualmente no <a href="https://www.grupomorenarosa.com.br/pt/inicio/">Grupo Morena Rosa</a>
 - 💻 &nbsp; Aprendendo mais sobre desenvolvimento back-end com Java.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
