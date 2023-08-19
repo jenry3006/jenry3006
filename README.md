@@ -1,7 +1,6 @@
 <h1>Olá, eu sou o Jenry! 👋</h1>
 
 - 💥 &nbsp; Desenvolvendo projetos para crescimento profissional como desenvolvedor back-end 
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://faculdadefacec.edu.br/">Faculdade FACEC</a>.
 - 💻 &nbsp; Aprendendo mais sobre desenvolvimento back-end com Java.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
